@@ -30,4 +30,4 @@ app.get('/pokemon/:id', (req, res) => {
   }
 })
 
-app.listen(3000)
+export default app
